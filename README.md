@@ -34,9 +34,9 @@ enlaces a los distintos perfiles que suben contenido sobre esa temática en conc
 ## TECNOLOGÍAS EMPLEADAS
 
 ````
-Entre las tecnologías empleadas destacan los lenguajes de marcas, los cuales son sistemas que utilizan etiquetas
-para estructurar, organizar o describir contenido dentro de los documentos; es decir, dichas etiquetas o marcas
-proporcionan instrucciones sobre cómo presentar la información dentro de la página.
+Entre las tecnologías empleadas destacan los lenguajes de marcas, los cuales son sistemas que utilizan
+etiquetas para estructurar, organizar o describir contenido dentro de los documentos; es decir, dichas
+etiquetas o marcas proporcionan instrucciones sobre cómo presentar la información dentro de la página.
 ````
 ### HTML
 HTML es el lenguaje de marca más extendido para la estructuración de contenido web por su amplio soporte en navegadores, siendo uno de los requisitos no funcionales detallados en el principio del documento, y su fácil aprendizaje. En este caso, estoy empleando la versión HTML5 por las siguientes ventajas:
