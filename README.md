@@ -38,12 +38,15 @@ enlaces a los distintos perfiles que suben contenido sobre esa temática en conc
 Entre las tecnologías empleadas destacan los lenguajes de marcas, los cuales son sistemas que utilizan
 etiquetas para estructurar, organizar o describir contenido dentro de los documentos; es decir, dichas
 etiquetas o marcas proporcionan instrucciones sobre cómo se presenta la información dentro de la página.
+Una vez que hemos definido el contenido y estructura que quermeos mostrar en la página, el siguiente
+paso es elegir las etiquetas que nos permiten llevar a cabo dicha estructura. No se trata sólo de ordenar
+los contenidos, sino de dotar la página de personalidad, dinamismo y funcionalidad.
 ````
 ### HTML
 HTML es el lenguaje de marca más extendido para la estructuración de contenido web por su amplio soporte en navegadores, siendo uno de los requisitos no funcionales detallados en el principio del documento, y su fácil aprendizaje. En este caso, estoy empleando la versión HTML5 por las siguientes ventajas:
 
  - Presenta una `semántica mejorada` con respecto a versiones anteriores: contiene nuevas etiquetas que mejoran la estructura
-y significado al contenido, siendo importante para la estructuración del contenido de una página.
+y significado al contenido, siendo importante para la estructuración del contenido de una página. Me ha permitido encontrar una gran variedad de etquetas que se adaptaban a las necesidades del diseño que he elegido realizar.
   - `Multimedia integrada`: podemos implementar audios y videos sin necesidad de plugins externos, nos ayuda a integrar una mayor variedad de contenido en nuestra página.
   - `Gráficos` y `efectos visuales` para dotar de más 'vida' o una sensación más dinámica a la página.
   - `Formularios` mejorados con nuevos tipos de entradas y validaciones.
@@ -58,8 +61,8 @@ contenidos, por ello he usado este lenguaje en su versión CSS3. La elección de
   - `Responsive Design`: facilita la creación de sitios web que se adaptan a diferentes tamaños de pantalla.
   - Mejoras en el `diseño`: contiene nuevas herramientras como *Flexbox* y *Grid Layout* para layouts más complejos y flexibles.
 ### MARKDOWN
-es un lenguaje de marca ligero de fácil uso y comprensión, el cual estoy empleando para generar la documentación
-del proyecto
+Es un lenguaje de marca ligero, de fácil uso y comprensión. Este lenguaje lo he empleado para la documentación del proyecto ya que, apesar de no contar con una estructuración muy compleja,
+sí me permite ordenar, colocar y remarcar las diferentes partes del documento, mejorando la legibilidad de este, así como el acceso a los contenidos.
 
 <br></br>
 ````
