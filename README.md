@@ -51,21 +51,36 @@ y significado al contenido, siendo importante para la estructuración del conten
   - `Gráficos` y `efectos visuales` para dotar de más 'vida' o una sensación más dinámica a la página.
   - `Formularios` mejorados con nuevos tipos de entradas y validaciones.
   - `APIs` y `funcionalidades avanzadas` como geolocalización, almacenamiento local entre otros.
+
  
- ***-------------------------- POR REVISAR ---------------------------------------***
 ### CSS
-entre las desventajas del lenguaje HTML se encuentra la dependencia del empleo de CSS para la presentación de los 
+Entre las desventajas del lenguaje HTML se encuentra la dependencia del empleo de CSS para la presentación de los 
 contenidos, por ello he usado este lenguaje en su versión CSS3. La elección de esta versión se basa en las siguientes ventajas:
+
   - `Modularidad`: esta versión de CSS se divide en módulos facilitando su uso y comprensión.
-  - `Nuevas propiedades`: que permiten efectos visuales avanzados como animaciones.
+  - `Nuevas propiedades`: que permiten efectos visuales avanzados como animaciones, lo cual es algo positivo para dotar de dinamismo a la página.
   - `Responsive Design`: facilita la creación de sitios web que se adaptan a diferentes tamaños de pantalla.
   - Mejoras en el `diseño`: contiene nuevas herramientras como *Flexbox* y *Grid Layout* para layouts más complejos y flexibles.
+    
 ### MARKDOWN
 Es un lenguaje de marca ligero, de fácil uso y comprensión. Este lenguaje lo he empleado para la documentación del proyecto ya que, apesar de no contar con una estructuración muy compleja,
 sí me permite ordenar, colocar y remarcar las diferentes partes del documento, mejorando la legibilidad de este, así como el acceso a los contenidos.
 
 <br></br>
 ````
-Entornos de desarrollo 
+Entornos de desarrollo son aplicacionies informáticas que permiten la creación, edición y ejecución de códigos a través
+de diferentes lenguajes de codificación.
 ````
 ### WEBSTORM
+Es un IDEs que ofrece amplias prestaciones para lenguajes como HTML y CSS. La elección de este entorno se ha debido a dos ventajas:
+
+- Trabajar con un IDE que no conocía, para poder adquirir más experiencia con distintas tecnologías.
+- Al ser un entorno diseñado para los lenguajes que voy a emplear en este proyecto, no necesito instalar plugins ni herramientas externas para trabajar. Además, WebStorm incluye una herramienta que me permite realizar una 'validación' del código. Esto último no me exime de
+ realizar esta prueba, pero supone una ayuda a la hora de escribir el código y tener una cierta orientación. 
+
+*Adjuto un captura para mostrar los mensajes de warnings que el IDE te proporciona.
+<details><summary>Pulsa aquí</summary>
+ 
+ ![IDE](https://github.com/Lmrocio/Pipo/blob/main/wireframe/Captura%20de%20pantalla%202024-12-05%20230951.png?raw=true)
+</details>
+
