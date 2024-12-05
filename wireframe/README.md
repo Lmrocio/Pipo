@@ -7,8 +7,9 @@ Comenzando con el header, lo he dividido entre un enlace, con título en su inte
 Durante todo el proceso de elección he tenido en cuenta las posibilidades de edición que me permiten CSS, es decir, he elegido contenedores para poder distribuir y colocar los elementos en la página siguiendo el boceto creado. Dentro del navegador he empleado las
 etiquetas de listas para ordenar los elementos, que en este caso son los enlaces que nos derivan a otras partes de la página.
 
-En el main encontras, por un lado un formulario, que ha sido elegido por la función que va a tener al aplicarle (posteriormente) JavaScript, y un section, que recoge los distintos articles (etiqueta elegida para las partes independientes de la páginas). Dentro del formulario encontramos un fieldset que agrupa la leyenda y el input tipo texto que conforman la parte principal de la página de inicio. Encuanto a los articles empleados en el section, encontramos un enlace, que, a su vez, tienen una imagen y un título, y un párrafo.
-  <details>
+En el main encontramos, por un lado un formulario, que ha sido elegido por la función que va a tener al aplicarle (posteriormente) JavaScript, y un section, que recoge los distintos articles (etiqueta elegida para las partes independientes de la páginas). Dentro del formulario encontramos un fieldset que agrupa la leyenda y el input tipo texto que conforman la parte principal de la página de inicio. En cuanto a los articles empleados en el section, encontramos un enlace, que, a su vez, tienen una imagen y un título, y un párrafo.
+
+<details>
     
   <summary>Pulsa aquí para ver la imagen</summary>
   
