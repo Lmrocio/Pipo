@@ -78,4 +78,9 @@ Es un IDEs que ofrece amplias prestaciones para lenguajes como HTML y CSS. La el
 - Al ser un entorno diseñado para los lenguajes que voy a emplear en este proyecto, no necesito instalar plugins ni herramientas externas para trabajar. Además, WebStorm incluye una herramienta que me permite realizar una 'validación' del código. Esto último no me exime de
  realizar esta prueba, pero supone una ayuda a la hora de escribir el código y tener una cierta orientación. 
 
+*Adjuto un captura para mostrar los mensajes de warnings que el IDE te proporciona.
+<details><summary>Pulsa aquí</summary>
+ 
+ ![IDE](https://github.com/Lmrocio/Pipo/blob/main/wireframe/Captura%20de%20pantalla%202024-12-05%20230951.png?raw=true)
+</details>
 
