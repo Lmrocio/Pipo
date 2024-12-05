@@ -1,0 +1,84 @@
+/*--------------------------------------------
+                RESETEO
+--------------------------------------------+/
+ */
+*{
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+
+/*-----------------------------------------------
+                CABECERA
+ ----------------------------------------------*/
+.cabecera{
+    background: mediumorchid;
+}
+.cabecera__titulo{
+    display: flex;
+    justify-content: center;
+    padding: 1.5rem;
+    font-size: 3rem;
+}
+.cabecera__menu{
+    display: flex;
+}
+.navegacion__menu{
+    width: 50%;
+    display: flex;
+}
+.menu__listas{
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    padding: 0;
+}
+.listas__listas{
+    padding: 0 0 1rem 0;
+}
+.listas__enlace{
+    border: thistle 0.2rem solid;
+    border-radius: 0 1rem 0 0;
+    color: thistle;
+    padding: 1rem;
+}
+.listas__enlace:hover{
+    padding: 0.8rem 0.8rem 1rem 0.8rem;
+    background: thistle;
+    color: mediumorchid;
+}
+
+.navegacion__enlace{
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    padding: 1rem 1rem 0.6rem 1rem;
+}
+.navegacion__perfil{
+    width: 4rem;
+    border-radius: 100%;
+}
+
+/*---------------------------------------------
+                MAIN
+---------------------------------------------*/
+.inicio__formulario{
+    display: flex;
+    justify-content: center;
+    padding: 7rem;
+}
+.formulario__fieldset{
+    align-content: center;
+}
+.formulario__leyenda{
+    font-size: 1.5rem;
+}
+.inicio__secciones{
+    display: flex;
+}
